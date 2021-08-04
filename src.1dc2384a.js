@@ -3,4 +3,4 @@ const t={colors:["#FFFFFF","#2196F3","#4CAF50","#FF9800","#009688","#795548"],bo
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/color_switcher");
 },{"./js/color_switcher":"XbrD"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.1dc2384a.js.map
+//# sourceMappingURL=/goit-js-hw-11-color-switch/src.1dc2384a.js.map
